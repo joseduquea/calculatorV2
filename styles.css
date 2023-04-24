@@ -4,7 +4,7 @@
     box-sizing: border-box;
     outline: 0;
     font-family: sans-serif;
-}
+} 
 
 body {
     background-image: linear-gradient( to bottom right, rgb(51, 59, 176),rgb(166, 53, 210));
